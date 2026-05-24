@@ -11,7 +11,7 @@
     </style>
   </defs>
   <text x="20" y="50">
-    <tspan class="green">┌──[</tspan><tspan class="green">root@</tspan><tspan class="blue">selman</tspan><tspan class="green">]</tspan>
+    <tspan class="green">┌──[</tspan><tspan class="green">root@</tspan><tspan class="blue">talha</tspan><tspan class="green">]</tspan>
   </text>
   <text x="20" y="95">
     <tspan class="green">└─$</tspan> <tspan class="cursor">_</tspan>
