@@ -14,3 +14,9 @@ Merhaba ben **Talha**, İstanbul Üniversitesi Cerrahpaşa BÖTE 1. sınıf öğ
 - 🦠 **Malware Analyst**
 - 💻 **Coding**
 
+---
+
+## 🛠️ Diller
+<img src="https://skillicons.dev/icons?i=python,c,bash,html,css,c#" />
+
+
