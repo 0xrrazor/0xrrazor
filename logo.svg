@@ -3,9 +3,9 @@
     <style>
       @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500&amp;display=swap');
       .green { fill: #FF0000; }
-      .blue { fill: #00D9FF; }
+      .blue { fill: #39FF14; }
       .gray { fill: #b0b0b0; }
-      .cursor { animation: blink 1s step-end infinite; fill: #00FF41; }
+      .cursor { animation: blink 1s step-end infinite; fill: #FF0000; }
       @keyframes blink { 50% { opacity: 0; } }
       text { font-family: 'JetBrains Mono', monospace; font-weight: 500; }
     </style>
