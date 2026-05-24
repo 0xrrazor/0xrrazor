@@ -2,7 +2,7 @@
   <defs>
     <style>
       @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500&amp;display=swap');
-      .green { fill: #00FF41; }
+      .green { fill: #FF0000; }
       .blue { fill: #00D9FF; }
       .gray { fill: #b0b0b0; }
       .cursor { animation: blink 1s step-end infinite; fill: #00FF41; }
