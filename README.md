@@ -17,6 +17,6 @@ Merhaba ben **Talha**, İstanbul Üniversitesi Cerrahpaşa BÖTE 1. sınıf öğ
 ---
 
 ## 🛠️ Diller
-<img src="https://skillicons.dev/icons?i=python,c,bash,html,css,c#" />
+<img src="https://skillicons.dev/icons?i=python,c,bash,html,css" />
 
 
