@@ -26,4 +26,14 @@ Merhaba ben **Talha**, İstanbul Üniversitesi Cerrahpaşa BÖTE 1. sınıf öğ
 
 <img src="https://skillicons.dev/icons?i=androidstudio,linux,git,github,vscode,pycharm" />
 
+---
+
+## 📫 Contact to Me
+
+- 📧 E-posta: [talhagumuskayaa@gmail.com](mailto:talhagumuskayaa@gmail.com)
+- 🌍 GitHub: [github.com/0xrrazor](https://github.com/0xrrazor)
+- 🔗 LinkedIn: [Muhammed Talha Gümüşkaya](https://www.linkedin.com/in/muhammed-talha-gumuskaya)
+
+---
+
 
